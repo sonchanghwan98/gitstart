@@ -20,4 +20,6 @@ git 사용법)
 1. git init : 현재 폴더가 git 저장소로 초기화
 2. git config --global user.name[이름]
 2. git config --global user.email[이메일]
-2. git config --global list
+2. git config --global --list
+
+버전 생성
